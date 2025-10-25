@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm passionate and goal-oriented student pursuing a degree in Electrical and Electronics Engineering(EEE) at SIT Tumkur.
+I'm passionate and goal-oriented student pursuing a degree in Artificial Intelligence and Data Science Engineering(AI&DS) at SIT Tumkur.
 
 
 ## 🌐 Socials:
